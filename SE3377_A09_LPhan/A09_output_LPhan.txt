@@ -1,0 +1,168 @@
+Last login: Sat Nov  4 19:48:14 on ttys000
+Lams-MacBook-Pro:~ lamphan$ ls
+Applications	Downloads	Movies		Public
+Desktop		IdeaProjects	Music		highscores_bash
+Documents	Library		Pictures	iverilog
+Lams-MacBook-Pro:~ lamphan$ cd Desktop
+Lams-MacBook-Pro:Desktop lamphan$ perl 1.pl
+Can't open perl script "1.pl": No such file or directory
+Lams-MacBook-Pro:Desktop lamphan$ ls
+2.pl
+34.png
+GuessGame.sh
+My topic is about the historical origins of the Second Amendment.docx
+SE3377_A09_LPhan
+SE3377_A09_LPhan.zip
+Write_Num.txt
+cs4341
+se3345
+se3377
+~$3377_Experiement_A08_lphan.docx
+Lams-MacBook-Pro:Desktop lamphan$ cd SE3377_A09_LPhan
+Lams-MacBook-Pro:SE3377_A09_LPhan lamphan$ perl 1.pl
+----------------------------------------------------------
+Question 1: Equation 
+x= 100
+y= 2 * x + 5
+y= 205
+----------------------------------------------------------
+Question 2: Random numbers 
+Number 1 is: -10
+Number 2 is: 10
+Create 2 random numbers and see if they are equal
+Random number 1 is: 5
+Random number 2 is: -4
+Different numbers!!! 
+----------------------------------------------------------
+Question 3: Sum of Square 
+First number is: 2
+Second number is: 3
+The sum of their square is: 13
+----------------------------------------------------------
+Question 4: Array 
+Array 1 has elements: 135
+Array 2 has elements: 246
+The new merge array is:  1 3 5 2 4 6
+The middle 3 numbers are: 3 5 2 or 5 2 4
+ ----------------------------------------------------------
+Question 5: Hash 
+ My hash is: Mage Priest Hunter 
+----------------------------------------------------------
+Question 6: if else compares 3 words entered by users 
+Enter word 1: we
+Enter word 2: asf
+Enter word 3: we
+Your word 1 is: 'we'
+Your word 2 is: 'asf'
+Your word 3 is: 'we'
+Now ready to compare:
+Word 1 and word 3 are Matched!!!
+----------------------------------------------------------
+Question 7: use while loop to print 99 random numbers to a file 
+52 
+3 
+18 
+50 
+36 
+46 
+89 
+23 
+29 
+66 
+98 
+19 
+15 
+69 
+15 
+46 
+35 
+74 
+52 
+98 
+81 
+46 
+26 
+29 
+36 
+37 
+78 
+38 
+20 
+0 
+38 
+88 
+67 
+10 
+27 
+63 
+79 
+30 
+31 
+34 
+46 
+50 
+1 
+24 
+97 
+86 
+24 
+32 
+3 
+40 
+42 
+85 
+71 
+70 
+25 
+39 
+6 
+66 
+98 
+10 
+46 
+57 
+54 
+48 
+32 
+27 
+11 
+43 
+44 
+39 
+3 
+43 
+57 
+63 
+61 
+12 
+55 
+68 
+60 
+57 
+25 
+61 
+0 
+94 
+64 
+58 
+76 
+80 
+43 
+51 
+59 
+34 
+71 
+22 
+67 
+83 
+62 
+58 
+37 
+48 
+----------------------------------------------------------
+Question 8: use subroutine to get 2 random numbers and sum of their square.
+Random number 1 is: 1 
+Random number 2 is: 9 
+The square and sum of the two numbers is: 82
+----------------------------------------------------------
+Lams-MacBook-Pro:SE3377_A09_LPhan lamphan$ 
